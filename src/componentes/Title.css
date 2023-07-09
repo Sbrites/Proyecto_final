@@ -1,0 +1,8 @@
+.title {
+    border: 2px solid var(--negro);
+    padding: 20px 30px;
+    border-radius: 4px;
+    background-color: rgba(71, 107, 113, 0.23);
+}
+
+/* prittier */

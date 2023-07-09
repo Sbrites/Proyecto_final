@@ -1,0 +1,8 @@
+.App {
+  text-align: center;
+  /* Podemos utilizar las variables que declaramos en index.css */
+  color: var(--blanco);
+  background-color: #2a314c;
+}
+
+
