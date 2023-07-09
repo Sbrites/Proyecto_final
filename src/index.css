@@ -1,0 +1,23 @@
+/* Este es el archivo general de CSS */
+
+:root {
+  --blanco: #fff;
+  --negro: #000;
+  --gris-oscuro: #666;
+  --rosa: hotpink;
+  --amarillo: yellow;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+img {
+  max-width: 100%;
+}

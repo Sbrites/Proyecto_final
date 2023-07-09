@@ -1,0 +1,15 @@
+
+.wrapper {
+    max-width: 1800px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: rgba(7, 172, 122, 0.557);
+}
+
+.grilla {
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    gap: 10px;
+    background-color: rgb(19, 58, 84);
+}
+

@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "imagen": "images/audino.png",
+        "titulo": "Audino",
+        "descripcion": "sus abrazos lo curan todo",
+        "precio": 342,
+        "envio": true
+    },
+    {
+        "id": 2,
+        "imagen": "images/Charmander.png",
+        "titulo": "Charmander",
+        "descripcion": " ",
+        "precio": 6342,
+        "envio": false
+    },
+    {
+        "id": 3,
+        "imagen": "images/cubone.png",
+        "titulo": "Cubone",
+        "descripcion": " ",
+        "precio": 9234,
+        "envio": true
+    },
+    {
+        "id": 4,
+        "imagen": "images/Dragonite.png",
+        "titulo": "Dragonite",
+        "descripcion": " ",
+        "precio": 69202,
+        "envio": false
+
+
+    },
+    {
+        "id": 5,
+        "imagen": "images/dratini.png",
+        "titulo": "Dragonite",
+        "descripcion": " ",
+        "precio": 69202,
+        "envio": true
+    },
+    {
+        "id": 6,
+        "imagen": "images/Growlithe.png",
+        "titulo": "Dragonite",
+        "descripcion": " ",
+        "precio": 69202,
+        "envio": false
+    },
+    {
+        "id": 7,
+        "imagen": "images/jigglypuff.png",
+        "titulo": "Dragonite",
+        "descripcion": " ",
+        "precio": 69202,
+        "envio": false
+    }
+
+    
+    
+]
